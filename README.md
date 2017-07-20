@@ -10,4 +10,6 @@ This typescript experiment implements drag and drop functionality with DOM eleme
 - Uses CSS transform for animation and drawing
 - Uses a cool little hand cursor
 
+[Try the demo](https://kokodoko.github.io/level-editor/)
+
 ![screenshot](/docs/images/screenshot.png)
